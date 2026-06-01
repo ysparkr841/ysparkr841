@@ -24,6 +24,7 @@
 | [데이터강남 플랫폼](https://aboutme-zeta-five.vercel.app/projects/data-gangnam) | 공공 데이터 기반 통합 플랫폼 운영·고도화 (지도 시각화, Chart.js 커스텀) |
 | [동대문구 빅데이터 상황시스템](https://aboutme-zeta-five.vercel.app/projects/ddm-situation) | 구축형 프로젝트, 공통 컴포넌트 설계 및 커스텀 클러스터링 구현 |
 | [헬프데스크 챗봇 PoC](https://aboutme-zeta-five.vercel.app/projects/helpdesk-chatbot) | LangGraph + Qdrant Hybrid Search + Reranker 기반 사내 RAG 챗봇 |
+| [charjs-arrow](https://github.com/ysparkr841/charjs-arrow) | Chart.js 커스텀 플러그인 — 화살표 막대 차트 구현 |
 
 <br/>
 

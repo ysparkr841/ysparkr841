@@ -7,7 +7,7 @@
 
 ## 🛠 Tech Stack
 
-**Frontend** &nbsp; Vue.js · JavaScript · Chart.js · D3.js · Naver Maps API  
+**Frontend** &nbsp; Vue.js · JavaScript · React · TypeScript · Chart.js · D3.js · Naver Maps API  
 **Backend** &nbsp;&nbsp; Java · REST API · SQL  
 **Infra** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Linux · Jenkins · Tomcat  
 **Database** &nbsp;Oracle · MySQL · PostgreSQL  
@@ -25,6 +25,7 @@
 | [동대문구 빅데이터 상황시스템](https://aboutme-zeta-five.vercel.app/projects/ddm-situation) | 구축형 프로젝트, 공통 컴포넌트 설계 및 커스텀 클러스터링 구현 |
 | [헬프데스크 챗봇 PoC](https://aboutme-zeta-five.vercel.app/projects/helpdesk-chatbot) | LangGraph + Qdrant Hybrid Search + Reranker 기반 사내 RAG 챗봇 |
 | [charjs-arrow](https://github.com/ysparkr841/charjs-arrow) | Chart.js 커스텀 플러그인 — 화살표 막대 차트 구현 |
+| [search-discovery-playground](https://github.com/ysparkr841/search-discovery-playground) | React + TypeScript 기반 장소 검색 구현 |
 
 <br/>
 
